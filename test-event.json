@@ -1,0 +1,7 @@
+{
+    "event_id": "evt_123456",
+    "timestamp": 1686597600000,
+    "user_id": "usr_789",
+    "event_type": "page_view",
+    "data": "{\"page\": \"home\", \"referrer\": \"google\", \"device\": \"mobile\"}"
+} 
